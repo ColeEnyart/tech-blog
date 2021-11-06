@@ -41,6 +41,7 @@ router.get('/post/:id', async (req, res) => {
   }
 });
 
+// get login
 router.get('/login', (req, res) => {
   if (req.session.loggedIn) {
     res.redirect('/');
@@ -50,6 +51,7 @@ router.get('/login', (req, res) => {
   res.render('login');
 });
 
+// get signup
 router.get('/signup', (req, res) => {
   if (req.session.loggedIn) {
     res.redirect('/');
