@@ -1,4 +1,4 @@
-# tech-blog
+# Tech Blog
 
 ## Link To Deployed Page
 [Tech Blog Website](https://coleenyart-tech-blog.herokuapp.com/)
@@ -13,4 +13,4 @@ Uses:
 
 ## Screenshot
 
-<img src="./public/assets/images/note-taker.png" width="800" />
+<img src="./public/images/tech-blog.png" width="800" />
